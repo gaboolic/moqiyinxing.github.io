@@ -16,6 +16,6 @@
 
 3 生成.arpa文件 可以使用开源库 [https://github.com/kpu/kenlm](https://github.com/kpu/kenlm)
 
-4 把arpa转成librime-octagram的tool用的格式 [https://github.com/gaboolic/rime-build-grammar/blob/main/arpa.py](https://github.com/gaboolic/rime-build-grammar/blob/main/arpa.py)
+4 把arpa转成librime-octagram的tool用的格式 雨辰提供[https://github.com/gaboolic/rime-build-grammar/blob/main/arpa.py](https://github.com/gaboolic/rime-build-grammar/blob/main/arpa.py)
 
 5 执行librime-octagram的build\_grammar
