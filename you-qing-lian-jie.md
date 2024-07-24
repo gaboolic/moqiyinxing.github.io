@@ -24,7 +24,7 @@ awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/aya
 
 虎码 [https://www.tiger-code.com/](https://www.tiger-code.com/)
 
-宇浩输入法 [https://yuhao.forfudan.com/](https://yuhao.forfudan.com/)
+宇浩输入法 [https://yuhao.forfudan.com/](https://yuhao.forfudan.com/) 群735728797
 
 天码 [http://soongsky.com/sky/](http://soongsky.com/sky/)
 
@@ -36,7 +36,7 @@ awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/aya
 
 自然码官网 [http://www.ziranma.com.cn/](http://www.ziranma.com.cn/)
 
-魔改自然码 [https://github.com/ksqsf/rime-moran](https://github.com/ksqsf/rime-moran)
+魔改自然码 [https://github.com/ksqsf/rime-moran](https://github.com/ksqsf/rime-moran) 群906230260
 
 哲豆音形 [https://zzd.pages.dev/](https://zzd.pages.dev/)
 
@@ -44,9 +44,9 @@ awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/aya
 
 小鹭音形 [https://nxysbtpi3z.feishu.cn/docx/doxcnFyBYZG5922YDDOEprfcS9b](https://nxysbtpi3z.feishu.cn/docx/doxcnFyBYZG5922YDDOEprfcS9b)
 
-墨奇音形 [https://github.com/gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma)
+墨奇音形 [https://github.com/gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) 群696353204
 
-简单鹤 可以看[https://chaifen.app/](https://chaifen.app/)，是一个字根乱序的音形输入法
+简单鹤 可以看[https://chaifen.app/](https://chaifen.app/)，是一个字根乱序的音形输入法 群605928107
 
 声笔输入法 [https://sbxlm.github.io/](https://sbxlm.github.io/)
 
@@ -58,11 +58,11 @@ awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/aya
 
 拼音类输入法
 
-雾凇拼音 [https://github.com/iDvel/rime-ice/](https://github.com/iDvel/rime-ice/)
+雾凇拼音 [https://github.com/iDvel/rime-ice/](https://github.com/iDvel/rime-ice/)&#x20;
 
-薄荷拼音 [https://www.mintimate.cc/](https://www.mintimate.cc/)
+薄荷拼音 [https://www.mintimate.cc/](https://www.mintimate.cc/) 群703260572
 
-白霜拼音 [https://github.com/gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) 墨奇音形使用的词库
+白霜拼音 [https://github.com/gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) 墨奇音形使用的词库，主打一个智能
 
 冰雪拼音 [https://github.com/hanzi-chai/rime-snow-pinyin](https://github.com/hanzi-chai/rime-snow-pinyin)
 
