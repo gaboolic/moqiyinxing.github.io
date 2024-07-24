@@ -4,7 +4,7 @@
 
 
 
-输入法软件
+输入法软件相关
 
 rime中州韵输入法引擎 [https://rime.im/](https://rime.im/)
 
@@ -32,19 +32,21 @@ awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/aya
 
 音形码
 
-自然码 [http://www.ziranma.com.cn/](http://www.ziranma.com.cn/)
+自然码官网 [http://www.ziranma.com.cn/](http://www.ziranma.com.cn/)
+
+魔改自然码 [https://github.com/ksqsf/rime-moran](https://github.com/ksqsf/rime-moran)
 
 哲豆音形 [https://zzd.pages.dev/](https://zzd.pages.dev/)
 
 小鹤音形 [https://www.flypy.com/](https://www.flypy.com/)
+
+小鹭音形 [https://nxysbtpi3z.feishu.cn/docx/doxcnFyBYZG5922YDDOEprfcS9b](https://nxysbtpi3z.feishu.cn/docx/doxcnFyBYZG5922YDDOEprfcS9b)
 
 声笔输入法 [https://sbxlm.github.io/](https://sbxlm.github.io/)
 
 星空键道 [https://github.com/xkinput/Rime\_JD/](https://github.com/xkinput/Rime\_JD/)
 
 汉心码 [https://hanxinma.github.io/](https://hanxinma.github.io/)
-
-魔改自然码 [https://github.com/ksqsf/rime-moran](https://github.com/ksqsf/rime-moran)
 
 
 
@@ -67,3 +69,5 @@ awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/aya
 [https://www.chunqiujinjing.com/2024/02/06/shuangpin-input/](https://www.chunqiujinjing.com/2024/02/06/shuangpin-input/)&#x20;
 
 [https://tansongchen.com/](https://tansongchen.com/)  汉字拆分系统的作者，也开发了冰雪拼音、C42等输入法
+
+[https://dvel.me/](https://dvel.me/) 雾凇拼音作者的博客
