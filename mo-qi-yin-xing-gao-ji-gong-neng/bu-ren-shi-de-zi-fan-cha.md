@@ -1,4 +1,4 @@
-# 反查
+# 不认识的字反查
 
 对于不认识的字，支持仓颉、部件组字、两分、笔画、墨奇形码输入，反查双拼辅助码。
 
@@ -12,7 +12,7 @@
 
 墨奇码反查
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 笔画hspnz 横竖撇捺折
 
