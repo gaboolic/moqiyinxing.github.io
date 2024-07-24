@@ -54,6 +54,8 @@ awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/aya
 
 汉心码 [https://hanxinma.github.io/](https://hanxinma.github.io/)
 
+龙码音形 [https://hanxinma.gitlab.io/longma/](https://hanxinma.gitlab.io/longma/) 和汉心码 易学码是一个作者。乱序带调双拼加形
+
 
 
 拼音类输入法
