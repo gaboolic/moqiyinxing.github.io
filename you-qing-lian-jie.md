@@ -28,7 +28,7 @@ awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/aya
 
 天码 [http://soongsky.com/sky/](http://soongsky.com/sky/)
 
-字源输入法 [https://www.zhihu.com/question/58628893/answer/3256806335](https://www.zhihu.com/question/58628893/answer/3256806335)
+字源输入法 [https://www.zhihu.com/question/58628893/answer/3256806335](https://www.zhihu.com/question/58628893/answer/3256806335) 群261418302
 
 墨奇五笔等形码智能整句输入 [https://github.com/gaboolic/rime-wubi-sentence](https://github.com/gaboolic/rime-wubi-sentence) 墨奇音形作者使用白霜拼音的词库和词频制作的智能整句输入形码方案
 
