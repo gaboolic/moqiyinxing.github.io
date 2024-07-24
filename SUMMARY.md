@@ -29,3 +29,5 @@
 * [友情链接](you-qing-lian-jie.md)
 * [进阶·技术细节](jin-jie-ji-shu-xi-jie/README.md)
   * [制作白霜词库的过程](jin-jie-ji-shu-xi-jie/zhi-zuo-bai-shuang-ci-ku-de-guo-cheng.md)
+  * [每个人都可以训练自己的语言模型](jin-jie-ji-shu-xi-jie/mei-ge-ren-dou-ke-yi-xun-lian-zi-ji-de-yu-yan-mo-xing.md)
+  * [制作墨奇音形任意双拼辅助码](jin-jie-ji-shu-xi-jie/zhi-zuo-mo-qi-yin-xing-ren-yi-shuang-pin-fu-zhu-ma.md)
