@@ -29,3 +29,7 @@ MNBVC超大规模中文语料集 [https://github.com/esbatmop/MNBVC](https://git
 kenlm [https://github.com/kpu/kenlm](https://github.com/kpu/kenlm) 官网[https://kheafield.com/code/kenlm/](https://kheafield.com/code/kenlm/)
 
 kenlm教程、python调用 [https://github.com/mattzheng/py-kenlm-model](https://github.com/mattzheng/py-kenlm-model)
+
+搜狗词库转换rime格式 [https://github.com/lewangdev/scel2txt](https://github.com/lewangdev/scel2txt)
+
+深蓝词库转换 [https://github.com/studyzy/imewlconverter](https://github.com/studyzy/imewlconverter)
