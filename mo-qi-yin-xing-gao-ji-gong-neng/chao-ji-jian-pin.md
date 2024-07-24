@@ -4,4 +4,4 @@
 
 例如nm，按下空格时，正常上屏“年”，按下Tab或/或。时，上屏“你们”。
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
