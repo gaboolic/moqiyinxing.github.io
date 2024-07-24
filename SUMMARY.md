@@ -14,6 +14,7 @@
   * [中英互译](mo-qi-yin-xing-gao-ji-gong-neng/zhong-ying-hu-yi.md)
   * [超级简拼](mo-qi-yin-xing-gao-ji-gong-neng/chao-ji-jian-pin.md)
   * [e简码](mo-qi-yin-xing-gao-ji-gong-neng/e-jian-ma.md)
+  * [模糊音、飞键](mo-qi-yin-xing-gao-ji-gong-neng/mo-hu-yin-fei-jian.md)
   * [使用/字词分离](mo-qi-yin-xing-gao-ji-gong-neng/shi-yong-zi-ci-fen-li.md)
   * [查看字的拆分（墨奇码独有）](mo-qi-yin-xing-gao-ji-gong-neng/cha-kan-zi-de-chai-fen-mo-qi-ma-du-you.md)
   * [时间、日期输入](mo-qi-yin-xing-gao-ji-gong-neng/shi-jian-ri-qi-shu-ru.md)
