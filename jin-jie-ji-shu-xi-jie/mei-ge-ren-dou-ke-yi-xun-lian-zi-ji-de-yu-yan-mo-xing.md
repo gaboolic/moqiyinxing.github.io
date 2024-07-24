@@ -6,6 +6,8 @@
 
 把制作语言模型的步骤写下来，做个备忘。
 
+语言模型简介：[https://fancyerii.github.io/dev287x/lm/](https://fancyerii.github.io/dev287x/lm/)
+
 简要步骤：
 
 1 收集语料
