@@ -9,3 +9,19 @@
 “辅”字，双拼部分为fu，形辅部分则是if（车ie、甫fu的声母，墨奇码、自然码、鹤形这个字的辅助码恰好都是if）
 
 “助”字，双拼部分为vu，形辅部分则是ql（且q 力l的声母）
+
+墨奇音形是一个整句、字词兼备的方案，即使不用辅助码，也有不亚于搜狗、手心关闭云输入时的效果。
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+使用辅助码的效果：
+
+支持句中任意一个字上加辅码
+
+<figure><img src="../.gitbook/assets/9c45fd9e55c3ff74920815108a6b55d1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
