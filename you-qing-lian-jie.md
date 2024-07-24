@@ -6,17 +6,17 @@
 
 输入法软件相关
 
-rime中州韵输入法引擎 [https://rime.im/](https://rime.im/)
+rime中州韵输入法引擎 [https://rime.im/](https://rime.im/) 群1084482775 内有佛振本人
 
 awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/ayaka14732/awesome-rime) 收集了各种各样的rime方案
 
 小企鹅输入法 [https://fcitx-im.org/wiki/Install\_Fcitx\_5/zh-cn](https://fcitx-im.org/wiki/Install\_Fcitx\_5/zh-cn)
 
-小企鹅输入法mac版 [https://github.com/fcitx-contrib/fcitx5-macos](https://github.com/fcitx-contrib/fcitx5-macos)
+小企鹅输入法mac版 [https://github.com/fcitx-contrib/fcitx5-macos](https://github.com/fcitx-contrib/fcitx5-macos) 群874450150
 
 双拼方案评测 [https://macroxue.github.io/shuangpin/eval.html](https://macroxue.github.io/shuangpin/eval.html)
 
-汉字拆分系统 [https://chaifen.app/](https://chaifen.app/)
+汉字拆分系统 [https://chaifen.app/](https://chaifen.app/) 群627379895
 
 
 
