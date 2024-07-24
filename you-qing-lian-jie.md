@@ -44,10 +44,10 @@ awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/aya
 
 输入法相关的博客：
 
-[https://dieken.gitlab.io/posts/chinese-input-methods/](https://dieken.gitlab.io/posts/chinese-input-methods/)
+[https://dieken.gitlab.io/posts/chinese-input-methods/](https://dieken.gitlab.io/posts/chinese-input-methods/)  收集整理了众多中文输入法
 
-[https://ksqsf.moe/posts/2023-06-01-rime-double-pinyin/](https://ksqsf.moe/posts/2023-06-01-rime-double-pinyin/)
+[https://ksqsf.moe/posts/2023-06-01-rime-double-pinyin/](https://ksqsf.moe/posts/2023-06-01-rime-double-pinyin/)  魔然的作者
 
 [https://www.chunqiujinjing.com/2024/02/06/shuangpin-input/](https://www.chunqiujinjing.com/2024/02/06/shuangpin-input/)&#x20;
 
-[https://tansongchen.com/](https://tansongchen.com/)
+[https://tansongchen.com/](https://tansongchen.com/)  汉字拆分系统的作者，也开发了冰雪拼音、C42等输入法
