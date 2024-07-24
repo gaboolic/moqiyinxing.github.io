@@ -22,9 +22,9 @@ awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/aya
 
 形码
 
-虎码 [https://www.tiger-code.com/](https://www.tiger-code.com/)
+虎码 [https://www.tiger-code.com/](https://www.tiger-code.com/) 新时代形码，乱序字根，低重码，高性能，使用人数众多
 
-宇浩输入法 [https://yuhao.forfudan.com/](https://yuhao.forfudan.com/) 群735728797
+宇浩输入法 [https://yuhao.forfudan.com/](https://yuhao.forfudan.com/) 光华、星陈、卿云。 群735728797
 
 天码 [http://soongsky.com/sky/](http://soongsky.com/sky/)
 
@@ -34,27 +34,27 @@ awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/aya
 
 音形码
 
-自然码官网 [http://www.ziranma.com.cn/](http://www.ziranma.com.cn/)
+自然码官网 [http://www.ziranma.com.cn/](http://www.ziranma.com.cn/) 音形鼻祖，40年历史
 
 魔改自然码 [https://github.com/ksqsf/rime-moran](https://github.com/ksqsf/rime-moran) 群906230260
 
 哲豆音形 [https://zzd.pages.dev/](https://zzd.pages.dev/)
 
-小鹤音形 [https://www.flypy.com/](https://www.flypy.com/)
+小鹤音形 [https://www.flypy.com/](https://www.flypy.com/) 目前使用人数最多的音形码，特点是小词库4码上屏
 
 小鹭音形 [https://nxysbtpi3z.feishu.cn/docx/doxcnFyBYZG5922YDDOEprfcS9b](https://nxysbtpi3z.feishu.cn/docx/doxcnFyBYZG5922YDDOEprfcS9b)
 
-墨奇音形 [https://github.com/gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) 群696353204
+墨奇音形 [https://github.com/gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) 双拼加音托字根辅。群696353204
 
 简单鹤 可以看[https://chaifen.app/](https://chaifen.app/)，是一个字根乱序的音形输入法 群605928107
 
-声笔输入法 [https://sbxlm.github.io/](https://sbxlm.github.io/)
+声笔输入法 [https://sbxlm.github.io/](https://sbxlm.github.io/)  顶功输入引领者
 
-星空键道 [https://github.com/xkinput/Rime\_JD/](https://github.com/xkinput/Rime\_JD/)
+星空键道 [https://github.com/xkinput/Rime\_JD/](https://github.com/xkinput/Rime\_JD/) 顶功飞键双拼加形
 
-汉心码 [https://hanxinma.github.io/](https://hanxinma.github.io/)
+汉心码 [https://hanxinma.github.io/](https://hanxinma.github.io/) 支持挂接到多种输入法的辅助码。
 
-龙码音形 [https://hanxinma.gitlab.io/longma/](https://hanxinma.gitlab.io/longma/) 和汉心码 易学码是一个作者。乱序带调双拼加形
+龙码音形 [https://hanxinma.gitlab.io/longma/](https://hanxinma.gitlab.io/longma/) 和汉心码 易学码是一个作者。乱序带调双拼加形独具特色。
 
 
 
@@ -64,7 +64,7 @@ awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/aya
 
 薄荷拼音 [https://www.mintimate.cc/](https://www.mintimate.cc/) 群703260572
 
-白霜拼音 [https://github.com/gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) 墨奇音形使用的词库，主打一个智能
+白霜拼音 [https://github.com/gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) 蒹葭苍苍，白露为霜。墨奇音形使用的词库，主打一个智能。墨奇音形作者制作。
 
 冰雪拼音 [https://github.com/hanzi-chai/rime-snow-pinyin](https://github.com/hanzi-chai/rime-snow-pinyin)
 
