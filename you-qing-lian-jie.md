@@ -46,6 +46,8 @@ awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/aya
 
 墨奇音形 [https://github.com/gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma)
 
+简单鹤 可以看[https://chaifen.app/](https://chaifen.app/)，是一个字根乱序的音形输入法
+
 声笔输入法 [https://sbxlm.github.io/](https://sbxlm.github.io/)
 
 星空键道 [https://github.com/xkinput/Rime\_JD/](https://github.com/xkinput/Rime\_JD/)
