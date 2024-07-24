@@ -18,6 +18,8 @@ awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/aya
 
 汉字拆分系统 [https://chaifen.app/](https://chaifen.app/) 群627379895
 
+在线打字练习 [https://www.jsxiaoshi.com/](https://www.jsxiaoshi.com/) 高手众多，来此方知打字速度300字以上才是真高手
+
 
 
 形码
@@ -69,6 +71,12 @@ awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/aya
 白霜拼音 [https://github.com/gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) 蒹葭苍苍，白露为霜。墨奇音形使用的词库，主打一个智能。墨奇音形作者制作。
 
 冰雪拼音 [https://github.com/hanzi-chai/rime-snow-pinyin](https://github.com/hanzi-chai/rime-snow-pinyin)
+
+
+
+并击
+
+空明码 [https://www.jsxiaoshi.com/bbs/cid/29](https://www.jsxiaoshi.com/bbs/cid/29) 群374971723
 
 
 
