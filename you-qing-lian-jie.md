@@ -28,7 +28,7 @@ awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/aya
 
 天码 [http://soongsky.com/sky/](http://soongsky.com/sky/)
 
-墨奇五笔等形码智能整句输入 [https://github.com/gaboolic/rime-wubi-sentence](https://github.com/gaboolic/rime-wubi-sentence)
+墨奇五笔等形码智能整句输入 [https://github.com/gaboolic/rime-wubi-sentence](https://github.com/gaboolic/rime-wubi-sentence) 作者使用白霜拼音的词库和词频制作的智能整句输入形码方案
 
 
 
@@ -57,6 +57,8 @@ awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/aya
 雾凇拼音 [https://github.com/iDvel/rime-ice/](https://github.com/iDvel/rime-ice/)
 
 薄荷拼音 [https://www.mintimate.cc/](https://www.mintimate.cc/)
+
+白霜拼音 [https://github.com/gaboolic/rime-frost](https://github.com/gaboolic/rime-frost)
 
 冰雪拼音 [https://github.com/hanzi-chai/rime-snow-pinyin](https://github.com/hanzi-chai/rime-snow-pinyin)
 
