@@ -33,3 +33,7 @@ kenlm教程、python调用 [https://github.com/mattzheng/py-kenlm-model](https:/
 搜狗词库转换rime格式 [https://github.com/lewangdev/scel2txt](https://github.com/lewangdev/scel2txt)
 
 深蓝词库转换 [https://github.com/studyzy/imewlconverter](https://github.com/studyzy/imewlconverter)
+
+
+
+感谢墨奇音形群群友、rime输入法交流群群友及各个输入法交流群群友，和大家的交流才能产生进步。

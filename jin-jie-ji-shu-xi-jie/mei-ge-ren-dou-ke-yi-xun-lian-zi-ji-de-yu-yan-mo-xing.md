@@ -2,6 +2,10 @@
 
 {% embed url="https://github.com/gaboolic/rime-build-grammar" %}
 
+感谢rime输入法交流群雨辰、魔然作者ksqsf的研究。
+
+把制作语言模型的步骤写下来，做个备忘。
+
 简要步骤：
 
 1 收集语料
