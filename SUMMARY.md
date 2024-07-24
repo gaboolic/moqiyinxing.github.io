@@ -8,7 +8,7 @@
 * [墨奇音形安装](mo-qi-yin-xing-an-zhuang/README.md)
   * [手心挂接](mo-qi-yin-xing-an-zhuang/shou-xin-gua-jie.md)
 * [墨奇音形高级功能](mo-qi-yin-xing-gao-ji-gong-neng/README.md)
-  * [反查](mo-qi-yin-xing-gao-ji-gong-neng/fan-cha.md)
+  * [不认识的字反查](mo-qi-yin-xing-gao-ji-gong-neng/bu-ren-shi-de-zi-fan-cha.md)
   * [英语、日语输入](mo-qi-yin-xing-gao-ji-gong-neng/ying-yu-ri-yu-shu-ru.md)
   * [火星文](mo-qi-yin-xing-gao-ji-gong-neng/huo-xing-wen.md)
   * [中英互译](mo-qi-yin-xing-gao-ji-gong-neng/zhong-ying-hu-yi.md)
