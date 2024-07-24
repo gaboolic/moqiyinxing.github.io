@@ -44,6 +44,8 @@ awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/aya
 
 小鹭音形 [https://nxysbtpi3z.feishu.cn/docx/doxcnFyBYZG5922YDDOEprfcS9b](https://nxysbtpi3z.feishu.cn/docx/doxcnFyBYZG5922YDDOEprfcS9b)
 
+墨奇音形 [https://github.com/gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma)
+
 声笔输入法 [https://sbxlm.github.io/](https://sbxlm.github.io/)
 
 星空键道 [https://github.com/xkinput/Rime\_JD/](https://github.com/xkinput/Rime\_JD/)
