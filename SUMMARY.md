@@ -5,6 +5,7 @@
   * [双拼说明](mo-qi-yin-xing-shuo-ming/shuang-pin-shuo-ming.md)
   * [辅助码说明](mo-qi-yin-xing-shuo-ming/fu-zhu-ma-shuo-ming/README.md)
     * [墨奇码拆分说明](mo-qi-yin-xing-shuo-ming/fu-zhu-ma-shuo-ming/mo-qi-ma-chai-fen-shuo-ming.md)
-* [墨奇音形安装](mo-qi-yin-xing-an-zhuang.md)
+* [墨奇音形安装](mo-qi-yin-xing-an-zhuang/README.md)
+  * [手心挂接](mo-qi-yin-xing-an-zhuang/shou-xin-gua-jie.md)
 * [鸣谢](ming-xie.md)
 * [友情链接](you-qing-lian-jie.md)
