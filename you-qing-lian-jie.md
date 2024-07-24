@@ -28,6 +28,8 @@ awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/aya
 
 天码 [http://soongsky.com/sky/](http://soongsky.com/sky/)
 
+墨奇五笔等形码智能整句输入 [https://github.com/gaboolic/rime-wubi-sentence](https://github.com/gaboolic/rime-wubi-sentence)
+
 
 
 音形码
