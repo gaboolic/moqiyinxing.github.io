@@ -4,6 +4,8 @@
 
 
 
+输入法软件
+
 rime中州韵输入法引擎 [https://rime.im/](https://rime.im/)
 
 awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/ayaka14732/awesome-rime) 收集了各种各样的rime方案
@@ -16,9 +18,21 @@ awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/aya
 
 汉字拆分系统 [https://chaifen.app/](https://chaifen.app/)
 
-自然码 [http://www.ziranma.com.cn/](http://www.ziranma.com.cn/)
+
+
+形码
 
 虎码 [https://www.tiger-code.com/](https://www.tiger-code.com/)
+
+宇浩输入法 [https://yuhao.forfudan.com/](https://yuhao.forfudan.com/)
+
+天码 [http://soongsky.com/sky/](http://soongsky.com/sky/)
+
+
+
+音形码
+
+自然码 [http://www.ziranma.com.cn/](http://www.ziranma.com.cn/)
 
 哲豆音形 [https://zzd.pages.dev/](https://zzd.pages.dev/)
 
@@ -28,17 +42,19 @@ awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/aya
 
 星空键道 [https://github.com/xkinput/Rime\_JD/](https://github.com/xkinput/Rime\_JD/)
 
-雾凇拼音 [https://github.com/iDvel/rime-ice/](https://github.com/iDvel/rime-ice/)
-
-薄荷拼音 [https://www.mintimate.cc/](https://www.mintimate.cc/)
-
 汉心码 [https://hanxinma.github.io/](https://hanxinma.github.io/)
 
 魔改自然码 [https://github.com/ksqsf/rime-moran](https://github.com/ksqsf/rime-moran)
 
-宇浩输入法 [https://yuhao.forfudan.com/](https://yuhao.forfudan.com/)
 
-天码 [http://soongsky.com/sky/](http://soongsky.com/sky/)
+
+拼音类输入法
+
+雾凇拼音 [https://github.com/iDvel/rime-ice/](https://github.com/iDvel/rime-ice/)
+
+薄荷拼音 [https://www.mintimate.cc/](https://www.mintimate.cc/)
+
+冰雪拼音 [https://github.com/hanzi-chai/rime-snow-pinyin](https://github.com/hanzi-chai/rime-snow-pinyin)
 
 
 
