@@ -4,7 +4,7 @@
 
 然后下载墨奇音形配置包[https://github.com/gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma)，复制到rime配置文件夹即可。
 
-网络不好的同学：加群696353204下载
+网络不好的同学：加群696353204 / 10885687 下载
 
 #### 如何安装&配置文件路径
 

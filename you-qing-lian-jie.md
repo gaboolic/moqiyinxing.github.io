@@ -48,7 +48,7 @@ awesome-rime [https://github.com/ayaka14732/awesome-rime](https://github.com/aya
 
 小鹭音形 [https://nxysbtpi3z.feishu.cn/docx/doxcnFyBYZG5922YDDOEprfcS9b](https://nxysbtpi3z.feishu.cn/docx/doxcnFyBYZG5922YDDOEprfcS9b)
 
-墨奇音形 [https://github.com/gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) 双拼加音托字根辅。群696353204
+墨奇音形 [https://github.com/gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) 双拼加音托字根辅。群696353204 / 10885687
 
 简单鹤 可以看[https://chaifen.app/](https://chaifen.app/)，是一个字根乱序的音形输入法 群605928107
 
