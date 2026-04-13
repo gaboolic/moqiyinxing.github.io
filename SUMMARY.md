@@ -1,6 +1,8 @@
 # Table of contents
 
 * [简介](README.md)
+* [墨奇输入法说明](mo-qi-shu-ru-fa-shuo-ming.md)
+* [白霜拼音说明](bai-shuang-pin-yin-shuo-ming.md)
 * [墨奇音形说明](mo-qi-yin-xing-shuo-ming/README.md)
   * [双拼说明](mo-qi-yin-xing-shuo-ming/shuang-pin-shuo-ming.md)
   * [辅助码说明](mo-qi-yin-xing-shuo-ming/fu-zhu-ma-shuo-ming/README.md)
