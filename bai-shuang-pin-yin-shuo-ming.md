@@ -26,7 +26,7 @@
 
 * Windows:&#x20;
   * 小狼毫：`%APPDATA%\Roming\Rime` （可以在右下角小狼毫输入法右键打开菜单选用户文件夹）复制完之后，去输入法设定里选择白霜拼音，然后重新部署
-  * 安装墨奇输入法的自带方案。Rime配置文件夹在：`%APPDATA%\Roming\Moqi\Rime` （可以在右下角输入法右键打开菜单选用户文件夹）
+  * 安装[墨奇输入法](https://github.com/gaboolic/moqi-im-windows)的自带方案。Rime配置文件夹在：`%APPDATA%\Roming\Moqi\Rime` （可以在右下角输入法右键打开菜单选用户文件夹）
 * Mac
   * [鼠须管](https://github.com/rime/squirrel)路径为 `~/Library/Rime`
   * [fcitx5-Mac 版](https://github.com/fcitx-contrib/fcitx5-macos)路径为 `~/.local/share/fcitx5/rime`
