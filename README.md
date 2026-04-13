@@ -1,5 +1,9 @@
 # 简介
 
+[墨奇输入法](https://github.com/gaboolic/moqi-im-windows) 是windows下一款内置白霜拼音的独立输入法。目前接入了librime内核，也支持替换成其他的输入方案。墨奇输入法TSF 层核心依赖：[`libIME2`](https://github.com/EasyIME/libIME2)  核心引擎由go语言开发：[`moqi-ime`](https://github.com/gaboolic/moqi-ime)
+
+
+
 [白霜拼音](https://link.zhihu.com/?target=https%3A//github.com/gaboolic/rime-frost) 是基于雾凇拼音重制的，更纯净、词频准确、智能的拼音词库。使用745396750字的高质量语料，进行分词，重新统计字频、词频，归一化。白霜词库是目前rime方案下最好的词库，在不使用智能模型的情况下可以超越使用智能模型的词库方案。依托开源输入法rime可以实现双拼、类似搜狗输入法的辅助筛选，以及媲美商业输入法搜狗、微软、手心的整句输入体验。
 
 
